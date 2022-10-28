@@ -1,3 +1,3 @@
-# sofka5
+# practica5
 
-taller de sofka de funciones
+Trabajo hecho con pseint acorde a los cincos puntos propuestos.
